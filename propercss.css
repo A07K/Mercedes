@@ -1,0 +1,132 @@
+* {
+    font-family: MBCorpo Title,DaimlerCAC-Regular,Helvetica,Arial,sans-serif;
+}
+
+.head-container {
+    display: flex;
+    background-color: #1F2937;
+    flex: 1;
+    justify-content: space-between;
+}
+
+.head2 {
+    display: flex;
+    padding: 50px;
+    font-size: larger;
+    gap: 25px;
+    color: white;
+    margin-right: 30px;
+}
+
+.headd {
+    display: flex;
+}
+
+.head-container2 {
+    display: flex;
+    background-color: #1F2937;
+    color: white;
+    justify-content: center;
+    min-height: 500px;
+    align-items: center;
+    flex: 1;
+    gap: 80px;
+    margin-bottom: 50px;
+}
+
+.item {
+    align-self: center;
+    width: 300px;
+    height: 200px;
+    padding-bottom: 70px;
+}
+
+.sign {
+    background-color: #3882f6;
+    padding: 6px;
+    color: white;
+    font-size: 8x;
+    font-weight: bold;
+    padding-right: 20px;
+    padding-left: 20px;
+    border-radius: 8px;
+    display: block;
+}
+
+.bodytype {
+    display: flex;
+    justify-content: center;
+}
+
+.types {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.ta {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+    font-weight: bold;
+    font-size: large;
+}
+
+.respect {
+    display: flex;
+    background-color: #e5e7eb;
+    flex-direction: column;
+    margin-top: 50px;
+    font-size: 36px;
+    align-items: center;
+    justify-content: center;
+    min-height: 155px;
+    padding-top: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.r2 {
+    padding-top: 35px;
+    font-size: 18px;
+    padding-left: 800px;
+    font-weight: bold;
+}
+
+.last {
+    display: flex;
+    background-color: grey;
+    height: 130px;
+    width: 1250px;
+    margin: 55px;
+    margin-left: 280px;
+    border-radius: 17px;
+}
+
+.signup {
+    display: flex;
+    background-color: #3882f6;
+    margin: 50px 200px;
+    padding: 10px 100px;
+    align-items: center;
+    border-radius: 7px;
+    justify-content: space-between;
+    color: #fff;
+}
+
+.sign-item {
+    flex: 1;
+}
+
+.sign-button {  
+    display: flex;
+    justify-content: center;
+}
+
+.footer {
+    display: flex;
+    justify-content: center;
+    background-color: #1F2937;
+    padding: 10px;
+    color: #fff;
+}
